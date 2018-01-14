@@ -2,4 +2,6 @@
 Star and snowflake moddeling 
 
 
-[[https://raw.githubusercontent.com/rickadams2/starSnowflakemodelling1/master/StarSchema1.jpg]]
+ ![SnowFlak(https://raw.githubusercontent.com/rickadams2/starSnowflakemodelling1/master/StarSchema1.jpg)
+
+TP-dwh
